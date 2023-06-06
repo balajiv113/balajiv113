@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [macvz](https://github.com/mac-vz/macvz)
+- 🔭 I’m currently working on [lima](https://github.com/lima-vm/lima)
 
 - 🌱 I’m currently learning **golang, rust**
 
